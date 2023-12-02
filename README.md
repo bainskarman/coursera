@@ -9,17 +9,17 @@ Welcome to my repository showcasing the practice assignments completed as part o
    - Learning Deep Learning Concepts with Keras Library.
 
 2. **Machine Learning with Python**
-   - **Folder:** [machine-learning-python/](./machine-learning-python/)
+   - **Folder:** [machine-learning-python/](./Machine Learning/)
    - Brief description of the course.
    - Highlights of key machine learning concepts covered using Python.
 
 3. **Data Science**
-   - **Folder:** [data-science/](./data-science/)
+   - **Folder:** [data-science/](.Data Science/)
    - Brief description of the course.
    - Highlights of key data science concepts covered.
 
 4. **Computer Vision**
-   - **Folder:** [computer-vision/](./computer-vision/)
+   - **Folder:** [computer-vision/](./Computer Vision/)
    - Brief description of the course.
    - Highlights of key computer vision concepts covered.
 
