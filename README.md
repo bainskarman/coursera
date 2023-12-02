@@ -1,37 +1,17 @@
-#Certifications Practice Assignments
+# Certifications Practice Assignments
 
-Welcome to my repository showcasing the practice assignments completed as part of various Certifications, covering deep learning with Keras, machine learning with Python, data science, and computer vision. This repository serves as a record of my hands-on experience and learning journey throughout these courses.
+Welcome to my repository showcasing the practice assignments completed as part of various IBM Certifications, covering deep learning with Keras, machine learning with Python, data science, and computer vision. This repository serves as a record of my hands-on experience and learning journey throughout these courses.
 
 ## Courses
 
-1. **Deep Learning with Keras**
-   - **Folder:** (./IBM Deep Learning with Keras/)
-   - Learning Deep Learning Concepts with Keras Library.
+1. **IBM Deep Learning with Keras**
+   - Deep Learning with Keras is a comprehensive course that explores the fundamentals of deep learning using the Keras framework. Topics covered include neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), and advanced topics in deep learning.
 
 2. **Machine Learning with Python**
-   - **Folder:** [machine-learning-python/](./Machine Learning/)
-   - Brief description of the course.
-   - Highlights of key machine learning concepts covered using Python.
+   - The Machine Learning with Python course focuses on the practical application of machine learning algorithms using the Python programming language. Topics include supervised and unsupervised learning, model evaluation, feature engineering, and deployment of machine learning models.
 
 3. **Data Science**
-   - **Folder:** [data-science/](.Data Science/)
-   - Brief description of the course.
-   - Highlights of key data science concepts covered.
+   - The Data Science course provides a comprehensive overview of the data science workflow. Topics covered include data exploration, data cleaning, feature engineering, statistical analysis, and machine learning. The course emphasizes the use of popular data science tools and libraries.
 
 4. **Computer Vision**
-   - **Folder:** [computer-vision/](./Computer Vision/)
-   - Brief description of the course.
-   - Highlights of key computer vision concepts covered.
-
-## Practice Assignments
-
-### Deep Learning with Keras
-- [Assignment Name 1](./deep-learning-keras/assignment-1/): Description of the assignment. Challenges faced and lessons learned.
-- [Assignment Name 2](./deep-learning-keras/assignment-2/): Description of the assignment. Challenges faced and lessons learned.
-
-### Machine Learning with Python
-- [Assignment Name 1](./machine-learning-python/assignment-1/): Description of the assignment. Challenges faced and lessons learned.
-- [Assignment Name 2](./machine-learning-python/assignment-2/): Description of the assignment. Challenges faced and lessons learned.
-
-### Data Science
-- [Assignment Name 1](./data-science/assignment-1/):
+   - The Computer Vision course explores the fascinating field of computer vision, focusing on techniques for image and video analysis. Topics include image processing, feature extraction, object detection, and image classification. The course also covers the application of deep learning in computer vision.
