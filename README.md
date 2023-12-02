@@ -5,7 +5,7 @@ Welcome to my repository showcasing the practice assignments completed as part o
 ## Courses
 
 1. **Deep Learning with Keras**
-   - **Folder:** [/IBM Deep Learning with Keras/]
+   - **Folder:** (./IBM Deep Learning with Keras/)
    - Learning Deep Learning Concepts with Keras Library.
 
 2. **Machine Learning with Python**
